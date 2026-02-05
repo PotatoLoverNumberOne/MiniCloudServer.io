@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MiniCloud/MiniCloud.vcxproj" Id="af56e039-f39f-42e4-bccd-adb8b4299332" />
+</Solution>
